@@ -1,0 +1,1 @@
+# Picture-supports-manual-zoom
